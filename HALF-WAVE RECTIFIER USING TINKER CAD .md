@@ -6,5 +6,10 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+BEFORE SIMULATION:
+<img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/b1f40e4e-19e4-4a75-9f8c-60c142ed49e7" />
+AFTER SIMULATION:
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/1cca3602-1178-459e-a559-c94c79186222" />
+
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
