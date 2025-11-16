@@ -1,4 +1,3 @@
-
 <img width="841" height="767" alt="image" src="https://github.com/user-attachments/assets/6a5b33d8-74cb-4b71-ad42-10e32a4c1b86" />
 <img width="381" height="301" alt="image" src="https://github.com/user-attachments/assets/17144186-836e-449a-bfad-90d487b2d6ad" />
 <img width="752" height="497" alt="image" src="https://github.com/user-attachments/assets/e23953c7-bb20-4b94-aadb-8b5530894bac" />
@@ -6,10 +5,7 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
-BEFORE SIMULATION:
-<img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/b1f40e4e-19e4-4a75-9f8c-60c142ed49e7" />
-AFTER SIMULATION:
-<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/1cca3602-1178-459e-a559-c94c79186222" />
+<img width="757" height="936" alt="image" src="https://github.com/user-attachments/assets/24b16792-b170-423e-8f8b-1cdabfd1705b" />
 
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
