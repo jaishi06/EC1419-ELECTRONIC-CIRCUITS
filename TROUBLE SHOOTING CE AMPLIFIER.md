@@ -8,6 +8,20 @@
 
 ## Tabulations 
 
+![WhatsApp Image 2025-11-26 at 11 46 13_656e96a2](https://github.com/user-attachments/assets/3b8352b3-a17b-461e-a352-eb02d539ca3b)
+
 ## Semilog Graph
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+<img ![WhatsApp Image 2025-11-26 at 11 47 10_f9c03667](https://github.com/user-attachments/assets/e0beae85-c910-43a3-8d61-34507016d46f)
+
+## calculation
+![WhatsApp Image 2025-11-26 at 11 47 11_2ffab841](https://github.com/user-attachments/assets/d1f03f9b-6541-4eb3-b909-5252fd861ed6)
+
+
+width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+
+# result 
+gaoin of the amplifier 14.3
+
+
+bandwidth of the amplifier 450 hz
