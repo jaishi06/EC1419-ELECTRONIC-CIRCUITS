@@ -9,6 +9,20 @@
 
 # Tabulation with readings
 
+![WhatsApp Image 2025-11-26 at 11 57 14_9a4f3d8d](https://github.com/user-attachments/assets/3c43c9ad-5ac2-49da-a8c8-34ef3fec28da)
+
+
 ## Semilog plotted Graph
 
+![WhatsApp Image 2025-11-26 at 12 03 30_4ad4855c](https://github.com/user-attachments/assets/844f9212-3601-4176-b2ba-fe4c60c18009)
+
+
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+#Result 
+
+gain of amplifier 6.84 dB
+
+bandwidth of the amplifier 9.9 khz
+
+gain bandwidth product 67.32*10^3
